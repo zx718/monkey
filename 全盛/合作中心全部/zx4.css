@@ -1,0 +1,416 @@
+*{
+	padding:0;
+	margin: 0;
+}
+.bigger{
+	width: 1920px;
+	height: 1720px;
+	background: #ffffff;
+	border: 1px red solid;
+	margin: 0 auto;
+	font-family: microsoft yahei;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.top{
+	width: 1920px;
+	height: 200px;
+	background:#fafafa;
+}
+.top01{
+	float: left;
+	width: 1920px;
+	height: 200px;
+	background: url(./公司新闻/xw2.png) no-repeat;
+}
+.top1{
+	margin-left: 254px;
+	margin-top: 46px;
+	width: 200px;
+	height: 55px;
+	float: left;
+	background:url(./公司新闻/logo1.png) no-repeat;
+}
+.top2{
+	width: 665px;
+	height: 60px;
+	border-bottom: 3px #9e9b9a solid;
+	float: left;
+	margin-top: 50px;
+	margin-left: 470px;
+}
+.top4{
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+	border-bottom: 3px #cb545c solid;
+}
+.top41{
+	margin-left: 16px;
+}
+.top3{
+	float: left;
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+}
+.top5{
+	margin-top: 26px;
+	float: left;
+	width: 1920px;
+	height: 60px;
+	background: #7e7f80;
+}
+.top51{
+	color: #cececf;
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 315px;
+	line-height: 60px;
+}
+.clear:after{
+	clear: both;
+	content: "";
+	display: block;
+}
+.one{
+	width: 1920px;
+	height: 312px;
+}
+.one0{
+	margin-top: 35px;
+	margin-left: 280px;
+	float: left;
+	width: 1359px;
+	height: 308px;
+}
+.onel{
+	float: left;
+	width: 610px;
+	height: 306px;
+	background: url(./合作中心/hz1.png) no-repeat;
+}
+.oner{
+	float: left;
+	width: 744px;
+	height: 306px;
+	background: #eaeaea;
+}
+.oner1{
+	float: right;
+	background: #eaeaea;
+}
+.zi1{
+	font-size: 16px;
+	color: #b9b9b9;
+	line-height: 80px; 
+}
+.zi2{
+	font-weight: bold;
+	font-size: 30px;
+	color: #e60012;
+}
+.zi3{
+	margin-right: 50px;
+	font-size: 26px;
+	color: black;
+	font-weight: bold;
+}
+.one4{
+	margin-top: 77px;
+	margin-left: 23px;
+	float: left;
+	width: 20px;
+	height: 18px;
+	background: url(./合作中心/hz10.png) no-repeat;
+}
+.zi5{
+	margin-right: 50px;
+	margin-top: 13px;
+	float: left;
+	margin-left: 50px;
+	font-size: 14px;
+	color: #b9b9b9;
+}
+.one6{
+	margin-right: 50px;
+	margin-top: 13px;
+	float: right;
+	width: 20px;
+	height: 18px;
+	background: url(./合作中心/hz11.png) no-repeat;
+}
+.two{
+	margin-left: 340px;
+	width: 1250px;
+	height: 450px;
+	float: left;
+	margin-top: 89px;
+}
+.two1{
+	float: left;
+}
+.two11{
+	float: left;
+	width: 260px;
+	height: 360px;
+}
+.top119{
+	float: left;
+	width: 258px;
+	height: 218px;
+	border: 2px #f8f8f8 solid;
+	border-top: none;
+}
+.two111{
+	float: left;
+	width: 260px;
+	height: 145px;
+	background: url(./合作中心/hz2.png) no-repeat;
+}
+.two113{
+	margin-left: 30px;
+	line-height: 62px;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+	color: #7b7b7b;
+}
+.two114{
+	font-size: 14px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 20px;
+	color: #cacaca;
+}
+.two115{
+	position: relative;
+	margin-left: 27px;
+	margin-top: 42px;
+	float: left;
+	width: 80px;
+	height: 24px;
+	background: url(./合作中心/hz3.png) no-repeat;
+}
+.two115 a{
+	line-height: 16px;
+	text-decoration: none;
+	font-size: 12px;
+	margin-left:2px; 
+	color: #c3c3c3;
+}
+.top119:hover{
+	border: 2px #e60012 solid;
+	border-top: none;
+}
+.two12{
+	float: left;
+}
+.two13{
+	float: left;
+}
+.two12{
+	float: left;
+	width: 260px;
+	height: 360px;
+	margin-left: 70px;
+}
+.two1111{
+	float: left;
+	width: 260px;
+	height: 145px;
+	background: url(./合作中心/hz4.png) no-repeat;
+}
+.two1112{
+	float: left;
+	width: 260px;
+	height: 145px;
+	background: url(./合作中心/hz5.png) no-repeat;
+}
+.two1113{
+	float: left;
+	width: 260px;
+	height: 145px;
+	background: url(./合作中心/hz6.png) no-repeat;
+}
+.two1151{
+	position: relative;
+	margin-left: 27px;
+	margin-top: 20px;
+	float: left;
+	width: 80px;
+	height: 24px;
+	background: url(./合作中心/hz3.png) no-repeat;
+}
+.two1151 a{
+	line-height: 16px;
+	text-decoration: none;
+	font-size: 12px;
+	margin-left:5px; 
+	color: #c3c3c3;
+}
+.two2{
+	margin-top: 50px;
+	float: left;
+	width: 274px;
+	height: 30px;
+	font-size: 20px;
+	color: #adadad;
+}
+.three{
+	float: left;
+	width: 1920px;
+	height: 475px;
+	border-bottom: 3px #f3f2f2 solid;
+}
+.three1{
+	float: left;
+	width: 310px;
+	height: 28px;
+	border-left: 3px #f06671 solid;
+	margin-left: 280px;
+	margin-top: 50px;
+}
+.three11{
+	margin-left: 10px;
+	line-height:30px;
+	font-size: 28px; 
+}
+.three12{
+	font-size: 16px;
+	color: #b9b8b8;
+}
+.three2{
+	float: left;
+	width: 1920px;
+	height: 390px;
+}
+.three21{
+	margin-left: 347px;
+	margin-top: 135px;
+	float: left;
+	width: 40px;
+	height: 50px;
+	background: url(./合作中心/hz7.png) no-repeat;
+}
+.three22{
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 500px;
+	height: 286px;
+	float: left;
+	background: url(./合作中心/hz8.png) no-repeat;
+}
+.three23{
+	z-index: 100;
+	position: relative;
+	left: -200px;
+	top: 70px;
+	float: left;
+	width: 500px;
+	height: 286px;
+	background: url(./合作中心/hz9.png) no-repeat;
+}
+.three24{
+	margin-left:-400px;
+	margin-top: 30px; 
+	float: left;
+	width: 500px;
+	height: 286px;
+	background: url(./合作中心/hz12.png) no-repeat;
+}
+.three25{
+	margin-top: 130px;
+	margin-left: 50px;
+	float: left;
+	width: 40px;
+	height: 50px;
+	background: url(./合作中心/hz13.png) no-repeat;
+}
+.last0{
+	float: left;
+	width: 1920px;
+	height: 160px;
+}
+.last1{
+	float: left;
+	width: 384px;
+	height:60px;
+	border-right: 4px #c8402c solid;
+	margin-top: 44px;
+}
+.last11{
+	margin-top: 8px;
+	margin-right: 40px;
+	float:right;
+	width: 205px;
+	height: 54px;
+	background: url(./全盛首页/下LOGO.png) no-repeat;
+}
+.last2{
+	margin-right: 50px;
+	float: right;
+	width: 650px;
+	height: 100px;
+}
+.last21{
+	margin-top: 36px;
+	width: 550px;
+	height: 70px;
+	float: left;
+}
+.last22{
+	margin-top: 36px;
+	margin-right: 20px;
+	float: right;
+	width: 70px;
+	height: 70px;
+	background: url(./全盛首页/二维码.png) no-repeat;;
+}
+.last3 {
+	font-size: 19px;
+	line-height: 24px;
+	color: #c0c1c1;
+	text-align: right;
+	text-decoration: none;
+}
+.last3 a{
+	text-decoration: none;
+	color: #c2c3c4;
+}
+.last4{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
+.last5{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
+.three321{
+	float: left;
+	width: 500px;
+	height: 56px;
+	background: #464b4c;
+	opacity: 0.7;
+	margin-top: 230px;
+}
+.three231{
+	font-size: 14px;
+	color: white;
+	position: relative;
+	top: -40px;
+	left: 184px;
+}

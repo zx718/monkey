@@ -1,0 +1,227 @@
+*{
+	padding:0;
+	margin: 0;
+}
+.bigger{
+	width: 1920px;
+	height: 2288px;
+	background: #ffffff;
+	border: 1px red solid;
+	margin: 0 auto;
+	font-family: microsoft yahei;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.top{
+	width: 1920px;
+	height: 200px;
+	background:#fafafa;
+}
+.top01{
+	float: left;
+	width: 1920px;
+	height: 200px;
+	background: url(./公司新闻/xw2.png) no-repeat;
+}
+.top1{
+	margin-left: 254px;
+	margin-top: 46px;
+	width: 200px;
+	height: 55px;
+	float: left;
+	background:url(./公司新闻/logo1.png) no-repeat;
+}
+.top2{
+	width: 665px;
+	height: 60px;
+	border-bottom: 3px #9e9b9a solid;
+	float: left;
+	margin-top: 50px;
+	margin-left: 470px;
+}
+.top4{
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+	border-bottom: 3px #cb545c solid;
+}
+.top41{
+	margin-left: 16px;
+}
+.top3{
+	float: left;
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+}
+.top5{
+	margin-top: 26px;
+	float: left;
+	width: 1920px;
+	height: 60px;
+	background: #7e7f80;
+}
+.top51{
+	color: #cececf;
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 315px;
+	line-height: 60px;
+}
+.center{
+	width: 1920px;
+	height: 1910px;
+	border-bottom: 3px #f3f2f2 solid;
+}
+.center1{
+	width: 1920px;
+	height: 240px;
+}
+.center11{
+	float: left;
+	width: 1920px;
+	height: 33px;
+	font-size: 24px;
+	line-height: 33px;
+	color: black;
+	text-align: center;
+	margin-top: 43px;
+}
+.center12{
+	float: left;
+	margin-top: 22px;
+	width: 1920px;
+	height: 33px;
+	font-size: 14px;
+	line-height: 33px;
+	color: #c0c0c0;
+	text-align: center;
+}
+.center13{
+	text-indent: 35px;
+	margin-top: 20px;
+	margin-left: 328px;
+	width: 1226px;
+	height: 56px;
+	float: left;
+	font-size: 14px;
+	color: #cbcbcb;
+}
+.center2{
+	margin: 0 auto;
+	margin-top: 25px;
+	width: 312px;
+	height: 391px;
+	background: url(./公司新闻详情页/未标题-1.png) no-repeat;
+}
+.center4{
+	float: left;
+	margin-left: 686px;
+	margin-top: 20px;
+}
+.center5{
+	float: left;
+	line-height: 40px;
+	text-indent: 328px;
+	margin-top: 30px;
+	width: 1000px;
+	height: 25px;
+}
+.center6{
+	margin-left: 687px;
+	margin-top: 30px;
+	float: left;
+	width: 550px;
+	height: 280px;
+	background: url(./公司新闻详情页/未标题-3.png) no-repeat;
+}
+.center7{
+	margin-top: 6px;
+	float: left;
+	width: 1226px;
+	height: 30px;
+	font-size: 12px;
+	text-decoration:none;
+}
+.center7 a{
+	line-height: 10px;
+	text-decoration:none;
+	color: #8c8c8c;
+	margin-left:310px;
+}
+.center9{
+	float: left;
+	margin-top: 30px;
+}
+.last0{
+	float: left;
+	width: 1920px;
+	height: 160px;
+}
+.last1{
+	float: left;
+	width: 384px;
+	height:60px;
+	border-right: 4px #c8402c solid;
+	margin-top: 44px;
+}
+.last11{
+	margin-top: 8px;
+	margin-right: 40px;
+	float:right;
+	width: 205px;
+	height: 54px;
+	background: url(./全盛首页/下LOGO.png) no-repeat;
+}
+.last2{
+	margin-right: 50px;
+	float: right;
+	width: 650px;
+	height: 100px;
+}
+.last21{
+	margin-top: 36px;
+	width: 550px;
+	height: 70px;
+	float: left;
+}
+.last22{
+	margin-top: 36px;
+	margin-right: 20px;
+	float: right;
+	width: 70px;
+	height: 70px;
+	background: url(./全盛首页/二维码.png) no-repeat;;
+}
+.last3 {
+	font-size: 19px;
+	line-height: 24px;
+	color: #c0c1c1;
+	text-align: right;
+	text-decoration: none;
+}
+.last3 a{
+	text-decoration: none;
+	color: #c2c3c4;
+}
+.last4{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
+.last5{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}

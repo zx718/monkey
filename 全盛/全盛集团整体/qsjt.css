@@ -1,0 +1,488 @@
+*{
+	padding:0;
+	margin: 0;
+}
+.bigger{
+	width: 1920px;
+	height: 3524px;
+	background: #ffffff;
+	border: 1px red solid;
+	margin: 0 auto;
+	font-family: microsoft yahei;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+.top{
+	width: 1920px;
+	height: 200px;
+	background:#fafafa;
+}
+.top01{
+	float: left;
+	width: 1920px;
+	height: 200px;
+	background: url(./公司新闻/xw2.png) no-repeat;
+}
+.top1{
+	margin-left: 254px;
+	margin-top: 46px;
+	width: 200px;
+	height: 55px;
+	float: left;
+	background:url(./公司新闻/logo1.png) no-repeat;
+}
+.top2{
+	width: 665px;
+	height: 60px;
+	border-bottom: 3px #9e9b9a solid;
+	float: left;
+	margin-top: 50px;
+	margin-left: 470px;
+}
+.top4{
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+	border-bottom: 3px #cb545c solid;
+}
+.top41{
+	margin-left: 16px;
+}
+.top3{
+	float: left;
+	line-height: 80px;
+	font-weight: bold;
+	font-size: 20px;
+	float: left;
+	width: 110px;
+	height: 60px;
+}
+.top5{
+	margin-top: 26px;
+	float: left;
+	width: 1920px;
+	height: 60px;
+	background: #7e7f80;
+}
+.top51{
+	color: #cececf;
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 315px;
+	line-height: 60px;
+}
+.one{
+	width: 1920px;
+	height: 90px;
+	background: url(./全盛集团1/119.png)no-repeat;
+}
+.two{
+	width: 1920px;
+	height: 530px;
+
+}
+.two0{
+	float: left;
+}
+.twol{
+	margin-left: 280px;
+	margin-top: 35px;
+	float: left;
+	width: 290px;
+	height: 430px;
+	background: url(./全盛集团1/111.png) no-repeat;
+}
+.twor{
+	margin-top: 35px;
+	margin-left: 60px;
+	float: left;
+	width: 900px;
+	height: 430px;
+}
+.twor1{
+	margin-right: 20px;
+	width: 430px;
+	height: 40px;
+	float: right;
+}
+.r2{
+	font-size: 16px;
+	color: #c7c6c6;
+}
+.r3{
+	color: #f06678;
+	font-size: 24px;
+	font-weight: bold;
+}
+.r4{
+	font-size: 24px;
+	color: black;
+}
+.twor2{
+	margin-top: 88px;
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao3.png) no-repeat;
+}
+.twor3{
+	margin-top: 100px;
+	float: left;
+	width:800px; 
+	height:30px;
+	font-size: 24px;
+	color: #e1e1e1;
+}
+.twor4{
+	margin-left: 20px;
+	margin-top: 25px;
+	float: left;
+	width: 860px;
+	height: 50px;
+}
+.twor41{
+	font-size: 14px;
+	color: #d6d6d6;
+}
+.twor5{
+	margin-left: 20px;
+	margin-top: 5px;
+	float: left;
+	width: 860px;
+	height:50px;
+}
+.twor51{
+	font-size: 14px;
+	color: #d6d6d6;
+}
+.twor6{
+	margin-left: 20px;
+	margin-top: 40px;
+	float: left;
+	width: 80px;
+	height: 26px;
+	background: url(./全盛集团1/nnn.png) no-repeat;
+}
+.twor7{
+	margin-top: 88px;
+	float: right;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao1.png) no-repeat;
+}
+.three{
+	margin-left: 210px;
+	float: left;
+	width: 1395px;
+	height: 370px;
+	background: #ececec;
+}
+.threel1{
+	margin-left: 70px;
+	margin-top: 66px;
+	width: 280px;
+	height: 40px;
+}
+.threel2{
+	margin-top: 20px;
+	margin-left: 70px;
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao3.png) no-repeat;
+}
+.threel3{
+	float: left;
+	width: 520px;
+	height: 100px;
+	margin-top: 40px;
+}
+.threel31{
+	margin-top: 20px;
+	font-size: 14px;
+	color: #d8d8d8;
+}
+.threel41{
+	margin-top: 20px;
+	font-size: 14px;
+	color: #d8d8d8;
+}
+.threel5{
+	margin-top: 8px;
+}
+.threel6{
+	margin-top: 14px;
+	float: left;
+	width: 80px;
+	height: 26px;
+	background: url(./全盛集团1/nnn.png) no-repeat;
+}
+.threel7{
+	margin-top: 50px;
+	float: right;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao1.png) no-repeat;
+}
+.threer{
+	position: relative;
+	top: -105px;
+	left: 200px;
+	float: left;
+	width: 510px;
+	height: 365px;
+	background: url(./全盛集团1/112.png) no-repeat;
+}
+.four{
+	margin-top: 120px;
+	margin-left: 250px;
+	float: left;
+	width: 1370px;
+	height: 650px;
+}
+.four1{
+	float: left;
+	width: 1370px;
+	float: left;
+}
+.four11{
+	float: left;
+	width: 620px;
+	height: 360px;
+	background: url(./全盛集团1/113.png) no-repeat;
+}
+.four12{
+	position: relative;
+	top: 146px;
+	left: -50px;
+	float: left;
+	width: 725px;
+	height: 210px;
+	background: #ececec;
+}
+.four13{
+	position: relative;
+	top: -190px;
+	right: 90px;
+	float: right;
+	width: 240px;
+	height: 35px;
+}
+.zi1{
+	color:#b3b3b3;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 27px;
+}
+.zi2{
+	margin-left: 40px;
+	color: #c0c0c0;
+	font-size: 13px;
+	line-height: 27px;
+}
+.four12 ul{
+	margin-top: 15px;
+	margin-left: 135px;
+	list-style: none;
+}
+.four2{
+	margin-top: 20px;
+	float: left;
+	width: 1300px;
+	height: 260px;
+}
+.four21{
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao3.png) no-repeat;
+} 
+.four22{
+	margin-top: 15px;
+	margin-left: 23px;
+	float: left;
+	width: 1300px;
+	height: 160px;
+}
+.four22 li{
+	list-style: none;
+}
+.zi3{
+	color: #c0c0c0;
+	font-size: 13px;
+	line-height: 27px;
+}
+.four23{
+	margin-top: 40px;
+	float: right;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao1.png) no-repeat;
+} 
+.five{
+	margin-left: 200px;
+	float: left;
+	width: 1390px;
+	height:440px;
+}
+.five1{
+	float: left;
+}
+.five11{
+	float: left;
+	position: relative;
+	top: 70px;
+	left: 92px;
+	z-index: 100;
+}
+.five12{
+	z-index: 2;
+	position: relative;
+	top: -115px;
+	width: 1360px;
+	height: 300px;
+	float: left;
+	background: url(./全盛集团1/115.png) no-repeat;
+}
+.five121{
+	width: 290px;
+	height: 140px;
+	float: left;
+	margin-top: 86px;
+	margin-left: 560px;
+}
+.five121 ul{
+	width: 290px;
+	height: 140px;
+	float: left;
+	list-style: none;
+	line-height: 26px;
+	font-size: 14px;
+	color: #979591;
+}
+.five13{
+	width: 280px;
+	height: 34px;
+	float: right;
+	position: relative;
+	top: -80px;
+	right: 40px; 
+}
+.six{
+	position: relative;
+	left: 30px;
+	float: left;
+	width: 1920px;
+	height: 950px;
+	border-bottom: 3px #f3f2f2 solid;
+}
+.six2{
+	position: relative;
+	top: 130px;
+	left: -380px;
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao3.png) no-repeat;
+}
+.six1{
+	margin-top: 50px;
+	margin-left: 300px;
+	float: left;
+	width: 400px;
+	height: 40px;
+}
+.six3{
+	margin-top: 70px;
+	margin-left: 300px;
+	float: left;
+	width: 1270px;
+	height: 276px;
+	background: url(./全盛集团1/116.png) no-repeat;
+}
+.six4{
+	margin-top: 100px;
+	margin-left: 340px;
+	float: left;
+	width: 1200px;
+	height: 342px;
+	background: url(./全盛集团1/stuff.png) no-repeat;
+}
+.six5{
+	position: relative;
+	top: 450px;
+	left: -20px;
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: url(./全盛集团1/douhao1.png) no-repeat;
+}
+.last0{
+	float: left;
+	width: 1920px;
+	height: 160px;
+}
+.last1{
+	float: left;
+	width: 384px;
+	height:60px;
+	border-right: 4px #c8402c solid;
+	margin-top: 44px;
+}
+.last11{
+	margin-top: 8px;
+	margin-right: 40px;
+	float:right;
+	width: 205px;
+	height: 54px;
+	background: url(./全盛首页/下LOGO.png) no-repeat;
+}
+.last2{
+	margin-right: 50px;
+	float: right;
+	width: 650px;
+	height: 100px;
+}
+.last21{
+	margin-top: 36px;
+	width: 550px;
+	height: 70px;
+	float: left;
+}
+.last22{
+	margin-top: 36px;
+	margin-right: 20px;
+	float: right;
+	width: 70px;
+	height: 70px;
+	background: url(./全盛首页/二维码.png) no-repeat;;
+}
+.last3 {
+	font-size: 19px;
+	line-height: 24px;
+	color: #c0c1c1;
+	text-align: right;
+	text-decoration: none;
+}
+.last3 a{
+	text-decoration: none;
+	color: #c2c3c4;
+}
+.last4{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
+.last5{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}

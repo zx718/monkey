@@ -1,0 +1,856 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	width: 100%;
+}
+.bigger{
+	width: 1366px;
+	height: 4280px;
+	border: 3px red solid;
+	background: #ffffff;
+	font-family: microsoft yahei;
+	margin: 0 auto;
+}
+.top{
+	height: 90px;
+}
+.head{
+	height: 516px;
+}
+.three{
+	height: 66px;
+}
+.four{
+	height: 470px;
+}
+.five{
+	height: 640px;
+}
+.six{
+	height: 160px;
+}
+.seven{
+	height: 630px;
+}
+.eight{
+	height: 685px;
+}
+.nine{
+	height: 158px;
+}
+.ten{
+	height: 534px;
+}
+.bottom{
+	height: 160px;
+}
+.clear:after{
+	content: "";
+	clear: both;
+	display: block;
+}
+
+
+
+.topl{
+	float: left;
+	width: 630px;
+	height: 88px;
+}
+.logo{
+	width: 210px;
+	height: 50px;
+	background:url(./全盛首页/logo.png) no-repeat;
+	float: left;
+	margin-top: 24px;
+	margin-left: 110px;
+}
+.topr{
+	margin-left: 4px;
+	float: left;
+	width: 730px;
+	height: 90px;
+}
+.topr111{
+	float: left;
+}
+.topr1{
+	background: #898989;
+	margin-left: 4px;
+	float: left;
+	width: 87px;
+	height: 85px;
+}
+.topr2{
+	background: #c2191f;
+	text-decoration: underline;
+	float: left;
+	width: 87px;
+	height: 85px;
+	margin-left: 4px;
+}
+
+.p1{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)0px 0px no-repeat;
+}
+.zi1{
+	float: left;
+	line-height: 13px;
+	text-indent: 21px;
+	display: block;
+	color: #d5d5d6;
+	font-size: 11px;
+}
+.p2{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-64px 0px no-repeat;
+}
+.p3{
+	margin-left: 20px;
+	margin-top: 20px;
+	display: block;
+	width: 53px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-130px 0px no-repeat;
+}
+.p4{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-212px 0px no-repeat;
+}
+.p5{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-282px 0px no-repeat;
+}
+.p6{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-353px 0px no-repeat;
+}
+.p7{
+	margin-left: 18px;
+	margin-top: 20px;
+	display: block;
+	width: 54px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-424px 0px no-repeat;
+}
+.p8{
+	margin-left: 24px;
+	margin-top: 20px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+	background: url(./全盛首页/首页.png)-500px 0px no-repeat;
+}
+.topr1:hover,.zi1:hover{
+	background: #c2191f;
+	text-decoration: underline;
+}
+.topr1:hover .p1{
+	background: url(./全盛首页/首页.png)0px -53px no-repeat;
+}
+.topr1:hover .p2{
+	background: url(./全盛首页/首页.png)-64px -53px no-repeat;
+}
+.topr1:hover .p3{
+	background: url(./全盛首页/首页.png)-130px -53px no-repeat;
+}
+.topr1:hover .p4{
+	background: url(./全盛首页/首页.png)-212px -53px no-repeat;
+}
+.topr1:hover .p5{
+	background: url(./全盛首页/首页.png)-282px -53px no-repeat;
+}
+.topr1:hover .p6{
+	background: url(./全盛首页/首页.png)-353px -53px no-repeat;
+}
+.topr1:hover .p7{
+	background: url(./全盛首页/首页.png)-424px -53px no-repeat;
+}
+.topr1:hover .p8{
+	background: url(./全盛首页/首页.png)-500px -53px no-repeat;
+}
+
+.head{
+	background: url(./全盛首页/jz.png);
+}
+.zi2{
+	float: left;
+	width: 781px;
+	height: 180px;
+	margin-top: 108px;
+	margin-left: 518px;
+}
+.zi2 ul{
+	list-style: none;
+}
+.topqs{
+	font-size: 42px;
+	color: #3f3b3a;
+	font-weight: bold;
+}
+.red{
+	color: red;
+}
+.topsb{
+	font-size: 62px;
+	color: #3f3b3a;
+	font-weight: bold;
+}
+.topen{
+	margin-top: -5px;
+	color: #a19f98;
+	font-size: 31px;
+	font-weight: bold;
+}
+.topgr{
+	font-weight: bold;
+	color: #b8b4a6;
+	font-size: 20px;
+}
+.three1{
+	float: left;
+	width: 236px;
+	height: 65px;
+	border-right: 3px #f1f1f2 solid;
+}
+
+
+
+.threea{
+	width: 224px;
+	height: 66px;
+	float: left;
+}
+.three13{
+	float: left;
+	display: none;
+}
+.three11{
+	float: left;
+	background: pink;
+	width:236px;
+	height:210px;
+	opacity: 0.5;
+	z-index: 1;
+
+}
+.three2{
+	z-index: 10;
+
+}
+.three12{
+	float: left;
+	width:224px;
+	height:216px;
+	z-index: 10;
+	position: relative;
+	top: -212px;
+}
+.three14{
+	font-size: 24px;
+	color: red;
+	margin-left: 30px;
+	margin-top:17px; 
+}
+.three15{
+	float: left;
+	margin-top: 8px;
+	width: 175px;
+	height: 160px;
+	margin-left: 26px;
+}
+.three16{
+	line-height: 25px;
+	float: left;
+	width: 90px;
+	height: 148px;
+	border-right: 3px red solid;
+}
+.three18{
+	font-size: 15px;
+	color: red;
+	text-decoration: none;
+}
+.three19{
+	font-size: 20px;
+	color: red;
+}
+.three17{
+	float: left;
+	line-height: 25px;
+	margin-left: 15px;
+}
+
+.threea:hover .three13{
+	display: block;
+}
+
+
+
+
+.three2{
+	float: left;
+	font-size: 20px;
+	color: #8d8d8e;
+	font-weight: bold;
+	line-height: 66px;
+	margin-left: 70px;
+}
+.three1:hover {
+	background: #c2191f;
+}
+.three1:hover .three2{
+	color: white;
+}
+.three3{
+	float: left;
+	width: 245px;
+	height: 65px;
+}
+.three3:hover {
+	background: #c2191f;
+}
+.three3:hover .three2{
+	color: white;
+}
+.four{
+	position: relative;
+	overflow: hidden;
+	width: 1366px;
+	left: 2;
+	right: 0;
+/*	top:-210px;*/
+	bottom: 0;
+}
+.four1{
+	z-index: 1;
+	float: left;
+	opacity: 0.6;
+	height: 470px;
+	width: 1364px;
+	background: url(./全盛首页/未标题-1.png) no-repeat;
+}
+.four3{
+	z-index: 2;
+	position: absolute;
+	margin-left: 168px;
+	margin-top: 84px;
+	width: 500px;
+	height: 300px;
+	background: url(./全盛首页/未标题-2.png) no-repeat;
+}
+.fourr{
+	position: absolute;
+	left: 792px;
+	z-index: 2;
+	width: 574px;
+	height: 470px;
+	background: url(./全盛首页/qp.png) no-repeat;
+}
+.four4{
+	width: 173px;
+	height:60px;
+	border-right: 5px #d15433 solid;
+	float: right;
+	margin-right: 131px;
+	margin-top: 94px;
+}
+.zi3{
+	line-height: 37px;
+	margin-right: 4px;
+	font-size:34px;
+	float: right;
+}
+.zi4{
+	float: right;
+	margin-right: 4px;
+	font-size: 20px;
+}
+.four5{
+	float: right;
+	width: 280px;
+	height:160px;
+	margin-top: 33px;
+	margin-right: 131px;
+	line-height: 16px;
+	font-size: 14px;
+	text-indent: 30px;
+	color: #959596;
+}
+.five{
+	background: url(./全盛首页/12.png)no-repeat;
+}
+.five1{
+	float: left;
+	width: 553px;
+	height: 55px;
+	border-left: 4px #d0000e solid;
+	margin-left: 223px;
+	margin-top: 50px;
+}
+.five4{
+	margin-left: 4px;
+	font-size: 30px;
+	line-height: 32px;
+}
+.five5{
+	color: #bbbcbc;
+}
+.five3{
+	margin-left: 4px;
+	font-size: 22px;
+}
+.fivec{
+	margin-top: 30px;
+	margin-left: 30px;
+	float: left;
+	width: 1300px;
+	height: 400px;
+}
+.fivec0{
+	margin-left: 85px;
+	margin-top: 180px;
+	float: left;
+	width: 40px;
+	height: 40px;
+	background: url(./全盛首页/未标题-5.png) no-repeat;
+}
+.fivec1{
+	margin-left: 70px;
+	float: left;
+	width: 257px;
+	height: 395px;
+	background: #a3a4a4;
+}
+.fivec11{
+	color: white;
+	font-size: 26px;
+	margin-top: 25px;
+	margin-left: 77px;
+}
+.fivec12{
+	float: left;
+	margin-top: 30px;
+	width: 258px;
+	height: 180px;
+	background: url(./全盛首页/未标题-8.png) no-repeat;
+}
+.fivec13{
+	float: left;
+	margin-top: 27px;
+	margin-left: 20px;
+	width: 220px;
+	color: white;
+	font-size: 12px;
+	text-indent: 25px;
+}
+.fivec14{
+	margin-top: 25px;
+	margin-left: 90px;
+	float: left;
+	width: 80px;
+	height: 24px;
+	background: url(./全盛首页/111.png)-550px -1096px no-repeat;
+}
+.fivec24{
+	margin-top: 8px;
+	margin-left: 90px;
+	float: left;
+	width: 80px;
+	height: 24px;
+	background: url(./全盛首页/111.png)-550px -1096px no-repeat;
+}
+.fivec22{
+	float: left;
+	margin-top: 30px;
+	width: 258px;
+	height: 180px;
+	background: url(./全盛首页/未标题-7.png) no-repeat;
+}
+.fivec32{
+	float: left;
+	margin-top: 30px;
+	width: 258px;
+	height: 180px;
+	background: url(./全盛首页/未标题-9.png) no-repeat;
+}
+.five6{
+	float: left;
+	margin-left: 60px;
+	margin-top: 180px;
+	width: 40px;
+	height: 40px;
+	background: url(./全盛首页/未标题-4.png) no-repeat;
+}
+.six{
+	background: #807f80;
+}
+.six1{
+	float: left;
+	margin-left: 155px;
+	margin-top: 55px;
+	width: 40px;
+	height:35px;
+	background: url(./全盛首页/zzz.png) no-repeat; 
+}
+.six2{
+	margin-top: 40px;
+	float: left;
+	width: 1168px;
+	height: 50px;
+	border-bottom:3px red solid;
+	line-height: 50px;
+}
+.six3{
+	margin-left: 8px;
+	color: #e3e3e4;
+	font-size: 30px;
+}
+.six4{
+	margin-left: 5px;
+	font-size: 22px;
+	color: #e3e3e4;
+	font-weight: normal;
+}
+.sevent{
+	float: left;
+	width: 1366px;
+	height: 310px;
+}
+.seventl{
+	float: left;
+	width: 684px;
+	height: 310px;
+	background: url(./全盛首页/qwe.png) no-repeat;
+}
+.seventr{
+	float: left;
+	width: 680px;
+	height:310px;
+	background: #d4d5d5;
+}
+.sevenb{
+	float: left;
+	width: 1366px;
+	height: 317px;
+}
+.sevenbl{
+	float: left;
+	width: 684px;
+	height: 320px;
+	background: #d4d5d5;
+}
+.sevenbr{
+	float: left;
+	width: 682px;
+	height: 320px;
+	background: url(./全盛首页/未标题-14.png) no-repeat;
+}
+.seven1{
+	margin-top: 95px;
+	float: left;
+	width: 38px;
+	height: 130px;
+	background: url(./全盛首页/未标题-12.png) no-repeat;
+}
+.seven21{
+	float: left;
+	width: 520px;
+	height: 36px;
+	margin-top: 48px;
+	margin-left: 64px;
+	font-size: 24px;
+	line-height: 34px;
+	font-weight: bold;
+}
+.seven22{
+	float: left;
+	width: 520px;
+	height: 137px;
+	margin-left: 64px;
+	margin-top: 32px;
+	line-height: 23px;
+	font-size: 19px;
+	color: #8f8f90;
+}
+.seven23{
+	float: left;
+	width: 520px;
+	height: 58px;
+	margin-top: 25px;
+	margin-left: 74px;
+	font-size: 25px;
+	line-height: 34px;
+	font-weight: bold;
+}
+.seven11{
+	margin-top: 0px;
+	margin-left: 62px;
+	float: left;
+	width: 38px;
+	height: 130px;
+	background: url(./全盛首页/zuo.png) no-repeat;
+}
+.seventl1{
+	margin-left: 54px;
+	margin-top: 276px;
+	float: left;
+	width:44px;
+	height: 40px; 
+	background: url(./全盛首页/111.png)-660px -680px no-repeat;
+}
+.seventl11{
+	margin-left: 54px;
+	margin-top: 0px;
+	float: left;
+	width:44px;
+	height: 40px; 
+	background: url(./全盛首页/111.png)-692px -1028px no-repeat;
+}
+.seventl111{
+	margin-left: 57px;
+	margin-top: 17px;
+	float: left;
+	width:44px;
+	height: 40px; 
+	background: url(./全盛首页/111.png)-660px -732px no-repeat;
+}
+.seventl1111{
+	margin-left: 54px;
+	margin-top: 0px;
+	float: left;
+	width:44px;
+	height: 40px; 
+	background: url(./全盛首页/111.png)-696px -964px no-repeat;
+}
+.eightlt{
+	margin-left: 200px;
+	margin-top: 50px;
+	width: 130px;
+	height: 48px;
+	border-left:4px #d32e1a solid;
+}
+.eightlb{
+	margin-left: 50px;
+	height: 660px;
+	width: 685px;
+	background: url(./全盛首页/门店分布.png) no-repeat;
+}
+
+.eightlt1{
+	margin-left: 5px;
+	font-size: 27px;
+	line-height: 26px;
+}
+.eightlt2{
+	margin-left: 5px;
+	line-height: 28px;
+	font-size:19px;
+}
+.eighta{
+	float: left;
+}
+.eightl{
+	float: left;
+	width: 680px;
+	height: 685px;
+}
+.eightr{
+	margin-left: 3px;
+	width: 678px;
+	height: 689px;
+	float: left;
+	background: url(./全盛首页/未标题-17.png) no-repeat;
+}
+.nine{
+	background: #807f80;
+}
+.nine0{
+	float: left;
+	height: 158px;
+	width: 1366px; 
+}
+.nine1{
+	margin-left: 156px;
+	margin-top: 53px;
+	width: 48px;
+	height: 40px;
+	float: left;
+	background:url(./全盛首页/首页.png)-353px -53px no-repeat;
+}
+.nine2{
+	margin-top: 39px;
+	float: left;
+	width:1159px; 
+	height:50px;
+	border-bottom: 4px #c92f19 solid;
+}
+.nine3{
+	color: white;
+	font-size: 30px;
+	line-height: 50px;
+}
+.nine2{
+	color: white;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.ten1{
+	margin-left: 320px;
+	margin-top:36px;
+	float: left;
+	width: 785px;
+	height: 421px;
+	background: url(./全盛首页/未标题-18.png) no-repeat;
+}
+.bottom1{
+	width: 1366px;
+	height: 160px;
+	background: url(./全盛首页/aaa.png) no-repeat;
+}
+.bottom2{
+	float: left;
+}
+.bottom21{
+	margin-top: 54px;
+	margin-left: 159px;
+	width: 31px;
+	height: 38px;
+	float: left;
+	background:url(./全盛首页/电话.png) no-repeat;
+}
+.bottom22{
+	margin-top: 50px;
+	float: left;
+	width: 1172px;
+	height:48px;
+	border-bottom:4px #c92f19 solid;
+}
+.bottom4{
+	font-size: 29px;
+	color: #cc3e1e;
+}
+.bottom5{
+	font-size: 21px;
+	color: #cc3e1e;
+}
+.bottom6{
+	font-size: 30px;
+	color: #cc3e1e;
+	font-weight: bold;
+	margin-left: 60px;
+}
+.bottom3{
+	margin-left: 615px;
+	margin-top: 12px;
+	float: left;
+	width: 127px;
+	height: 33px;
+	background: url(./全盛首页/未标题-21.png) no-repeat;
+}
+.bottom8{
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 33px;
+	margin-left: 22px;
+	text-decoration: none;
+}
+.bottom3:hover a{
+	text-decoration: underline;
+}
+.last0{
+	float: left;
+	width: 1366px;
+	height: 160px;
+}
+.last1{
+	float: left;
+	width: 384px;
+	height:60px;
+	border-right: 4px #c8402c solid;
+	margin-top: 44px;
+}
+.last11{
+	margin-top: 8px;
+	margin-right: 40px;
+	float:right;
+	width: 205px;
+	height: 54px;
+	background: url(./全盛首页/下LOGO.png) no-repeat;
+}
+.last2{
+	margin-right: 50px;
+	float: right;
+	width: 650px;
+	height: 100px;
+}
+.last21{
+	margin-top: 36px;
+	width: 550px;
+	height: 70px;
+	float: left;
+}
+.last22{
+	margin-top: 36px;
+	margin-right: 20px;
+	float: right;
+	width: 70px;
+	height: 70px;
+	background: url(./全盛首页/二维码.png) no-repeat;;
+}
+.last3 {
+	font-size: 19px;
+	line-height: 24px;
+	color: #c0c1c1;
+	text-align: right;
+	text-decoration: none;
+}
+.last3 a{
+	text-decoration: none;
+	color: #c2c3c4;
+}
+.last4{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
+.last5{
+	font-size: 19px;
+	line-height: 24px;
+	color: #c2c3c4;
+	text-align: right;
+}
